@@ -7,3 +7,4 @@ This repository is a collection of implementations, experiments, and algorithms 
 | Project | Description |
 |---------|-------------|
 | [Camera Calibration](https://github.com/anaumghori/3D-geometric-vision/tree/main/CameraCalibration) | Implementation of complete camera calibration, including intrinsic parameters, extrinsic poses, and distortion coefficients. |
+| [Panorama Stitching](https://github.com/anaumghori/3D-geometric-vision/tree/main/PanoramaStitching) | Multi-image panorama creation using ORB feature detection, homography estimation with RANSAC, and iterative pairwise stitching with distance transform-based blending. |
