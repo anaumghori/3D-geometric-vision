@@ -1,0 +1,11 @@
+[project]
+name = "3d-vision"
+version = "0.1.0"
+description = "Implementations, experiments, and algorithms mainly focused on 3D and geometric computer vision."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.4.2",
+    "opencv-python>=4.13.0.92",
+    "scipy>=1.17.0",
+]
