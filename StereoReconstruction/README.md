@@ -10,10 +10,8 @@ At its core, the problem is one of correspondence: for every pixel in the left i
 - **Reflective and transparent surfaces**: These violate the assumption that appearance is consistent across views
 - **Repetitive patterns**: Repeating textures like brick walls create ambiguous matches
 
-<img
-  src="https://github.com/user-attachments/assets/888aa5e6-eb71-40c2-be36-e73016d6e3ea"
-  width="700"
-/>
+
+https://github.com/user-attachments/assets/8446efd1-49c2-4493-bbe9-46a8f61b01ed
 
 
 ### Semi-Global Matching (SGM)
